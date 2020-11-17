@@ -22,7 +22,7 @@
 </ul>
 <h3>Try out the demo!</h3>
 <ul>
-<li>Download Mirrors <a href="https://devilfiles.xyz/mirror.html">[CLICK HERE TO DOWNLOAD]</a></li>
+<li>Download <a href="https://github.com/height229/EasyMD5/releases/">[CLICK HERE TO DOWNLOAD]</a></li>
 </ul>
 <h3>Support Contact</h3>
 <ul>
