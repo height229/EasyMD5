@@ -17,7 +17,9 @@
 <li>.NET Framework</li>
 </ul>
 <h3>Usage</h3>
-<p>EasyMD5.Hash();</p>
+<ul>
+<li>EasyMD5.Hash();</li>
+</ul>
 <h3>Try out the demo!</h3>
 <ul>
 <li>Download Mirrors <a href="https://devilfiles.xyz/mirror.html">[CLICK HERE TO DOWNLOAD]</a></li>
